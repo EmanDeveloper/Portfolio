@@ -1,0 +1,91 @@
+@media (max-width:1000px){
+    nav{
+        width: 100%;
+        overflow: hidden;
+    }
+    .left h3{
+        padding: 1rem 1rem;
+        margin: 0%;
+        font-size: 1.2rem;
+    }
+    .landing-page{
+        overflow: hidden;
+        font-size: 1rem;
+        flex-direction: column-reverse;
+    }
+    .right-landing #img2{
+        width: 10rem;
+        height: 12rem;
+        margin-left: 0.11rem;
+        margin-bottom: 45%;
+    }
+    .right-landing #img1{
+        width: 10rem;
+        height: 11rem;
+        margin-left: 0.1rem;
+        margin-top: 15%;
+    }
+    .left-landing h2{
+        font-size: 1.4rem;
+    }
+    .left-landing h2 span{
+        font-size: 1.8rem;
+    }
+    .landing-page p{
+        font-size: 1.3rem;
+    }
+    .left-landing a{
+        font-size: 1rem;
+    }
+    .left-landing{
+        margin-right: 1rem;
+        font-size: 1.5rem;
+        margin-top: 0%;
+        margin-bottom: 8%;
+    }
+    .about{
+        overflow: hidden;
+    }
+    .about-center{
+        width: 90%;
+        font-size: 0.7rem;
+    }
+    .about-right img{
+        width: 5rem;
+        height: 9rem;
+        border-radius: 12px;
+    }
+    .container-skil-above{
+        overflow: hidden;
+    }
+    .skill-img{
+        width: 8%;
+        height: 9%;
+    }
+    .container-skill{
+        flex-direction: column;
+    }
+    .skil-above{
+        width: 50%;
+    }
+    .left-skill, span{
+        font-size: 1.3rem;
+    }
+    .java-img{
+        margin-bottom: 5%;
+    }
+    .left-skill{
+        margin-left: 4%;
+    }
+    .right-skill{
+        margin-left: 0%;
+        margin-top: 0%;
+    }.footer{
+        overflow: hidden;
+    }
+}
+@media only screen and (max-width:430px) and (min-width:385px) {
+    .container-skil-above{
+        height: 75vh;
+    }
+}
