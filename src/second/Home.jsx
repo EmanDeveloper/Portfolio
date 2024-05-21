@@ -43,7 +43,7 @@ function HomeSecond(){
         <div className="right">
             <ul>
                 <li><a href="https://www.linkedin.com/in/muhammad-eman-02a952251/" target='_blank'><FaLinkedin/></a></li>
-                <li><a href="https://www.google.com/maps"><FaFacebook/></a></li>
+                <li><a href="https://www.linkedin.com/in/muhammad-eman-02a952251/"><FaFacebook/></a></li>
                 <li><a href=""><FaInstagram/></a></li>
             </ul>
         </div>
